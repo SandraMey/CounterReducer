@@ -1,0 +1,3 @@
+{
+	"payload": "[{\"type\":\"INCREMENT\"},{\"type\":\"DECREMENT\"},{\"type\":\"DECREMENT\"},{\"type\":\"DECREMENTBYTEN\"},{\"type\":\"DECREMENTBYTEN\"},{\"type\":\"INCREMENTBYTEN\"},{\"type\":\"INCREMENTBYTEN\"},{\"type\":\"RESET\"},{\"type\":\"RESET\"}]"
+}
